@@ -30,5 +30,8 @@ For a given tweet such as "This is a great day!", the model will predict the twe
 
 ### Accuracy of the model - 88%
 
+![Toxic Tweet Classification Model](./T1.png)
+![Toxic Tweet Classification Model](./T2.png)
+
 License
 This project is licensed under the MIT License.
